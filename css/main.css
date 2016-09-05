@@ -6,9 +6,8 @@
 }
 
 body {
-    background-image: url(../img/rustic-wood.jpg);
+    background: url(../img/rustic-wood.jpg) no-repeat center center fixed;
     background-size: cover;
-    background-repeat: repeat-y;
     font-family: 'FortDeath';
 }
 
